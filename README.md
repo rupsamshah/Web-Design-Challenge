@@ -1,9 +1,8 @@
-# Unit 11 Homework: Web Visualization Dashboard
-###      Web - Design Challenge
+###                              Web Visualization Dashboard
 
 Create a website by using either the visualizations that you created for your Python-APIs Challenge or the weather data and images that are provided for this Challenge using HTML, CSS, and Bootstrap. Also the dashboard that features the Latitude vs. X analysis of weather.
 
-##  Website consist of seven pages as follows:
+##  Web-Design consist of all the following:
 
 # 1. A landing page :
         A sidebar section with images of each plot that all load 
