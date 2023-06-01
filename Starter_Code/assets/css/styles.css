@@ -5,7 +5,10 @@
 .navigation .navbar-brand{
   color: white; 
   margin-left: 30px; 
-  padding: inherit; 
+  padding: 10px; 
+  height:auto;
+  float:none;
+  font-size: 20px;
   font-weight: bold; 
   background-color: #0BADA6;
   font-family: Georgia, 'Times New Roman', Times, serif;
@@ -13,7 +16,7 @@
 
 .navbar{
   background-color: white; 
-  font-size: 30px; 
+  font-size: 16px; 
 }
 
 .active, .dropdown-menu .dropdown-item:active a:hover{
@@ -56,7 +59,10 @@ p {
   padding: 10px 20px 15px; 
   color:black;
   background-color: white; 
+}
 
+.box table {
+  font-size: 16px;
 }
 
 /* Images */
@@ -92,6 +98,18 @@ bottom: 0;
 width: 100%;
 padding-top: 1px;
 
+}
+
+.box p{
+font-size: 16px;
+}
+
+.mainbox{
+min-height: 500px;
+}
+.temp-image{
+width:30%;
+float:left
 }
 
 /* Table*/
